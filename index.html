@@ -659,6 +659,7 @@
   function buildSongList() {
     const list = document.getElementById('songList');
     list.innerHTML = '';
+    let gi = 0;
 
     data.eras.forEach(era => {
       era.albums.forEach(album => {
@@ -674,16 +675,16 @@
 
         // Songs
         album.songs.forEach((s, i) => {
-          const gi = flatSongs.findIndex(x => x.file === 'songs/' + s.file && x.album === album.name);
+          const index = gi++;
           const row = document.createElement('div');
           row.className = 'song-row' + (s.title_track ? ' is-title' : '');
-          row.id = `sr-${gi}`;
+          row.id = `sr-${index}`;
           row.innerHTML = `
             <div class="sr-num">${String(i + 1).padStart(2, '0')}</div>
             <div class="sr-title" title="${s.title}">${s.title}</div>
             <div class="sr-dot"></div>
             <div class="eq"><span></span><span></span><span></span></div>`;
-          row.onclick = () => play(gi);
+          row.onclick = () => play(index);
           group.appendChild(row);
         });
 
