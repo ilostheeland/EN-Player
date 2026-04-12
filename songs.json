@@ -8,6 +8,7 @@
         {
           "name": "BORDER : DAY ONE",
           "year": "2020",
+          "cover": "images/border-day-one.png",
           "songs": [
             { "title": "Intro : Walk the Line",   "file": "Intro-Walk-the-Line.mp3" },
             { "title": "Given-Taken",             "file": "Given-Taken.mp3",           "title_track": true },
@@ -20,6 +21,7 @@
         {
           "name": "BORDER : CARNIVAL",
           "year": "2021",
+          "cover": "images/border-carnival.png",
           "songs": [
             { "title": "Intro : The Invitation",  "file": "Intro-The-Invitation.mp3" },
             { "title": "Drunk-Dazed",             "file": "Drunk-Dazed.mp3",            "title_track": true },
@@ -39,6 +41,7 @@
         {
           "name": "DIMENSION : DILEMMA",
           "year": "2021",
+          "cover": "images/dimension-dilemma.png",
           "songs": [
             { "title": "Intro : Whiteout",                 "file": "Intro-Whiteout.mp3" },
             { "title": "Tamed-Dashed",                     "file": "Tamed-Dashed.mp3",                "title_track": true },
@@ -53,6 +56,7 @@
         {
           "name": "DIMENSION : ANSWER",
           "year": "2022",
+          "cover": "images/dimension-answer.png",
           "songs": [
             { "title": "Blessed-Cursed",  "file": "Blessed-Cursed.mp3",   "title_track": true },
             { "title": "Polaroid Love",   "file": "Polaroid-Love.mp3" },
@@ -69,6 +73,7 @@
         {
           "name": "MANIFESTO : DAY 1",
           "year": "2022",
+          "cover": "images/manifesto-day-1.png",
           "songs": [
             { "title": "WALK THE LINE",                    "file": "WALK-THE-LINE.mp3" },
             { "title": "Future Perfect (Pass the MIC)",    "file": "Future-Perfect-Pass-the-MIC.mp3", "title_track": true },
@@ -81,6 +86,7 @@
         {
           "name": "DARK BLOOD",
           "year": "2023",
+          "cover": "images/dark-blood.png",
           "songs": [
             { "title": "Fate",                    "file": "Fate.mp3" },
             { "title": "Bite Me",                 "file": "Bite-Me.mp3",                "title_track": true },
@@ -93,6 +99,7 @@
         {
           "name": "ORANGE BLOOD",
           "year": "2023",
+          "cover": "images/orange-blood.png",
           "songs": [
             { "title": "Mortal",                                 "file": "Mortal.mp3" },
             { "title": "Sweet Venom",                            "file": "Sweet-Venom.mp3",                      "title_track": true },
@@ -100,7 +107,6 @@
             { "title": "Blind",                                  "file": "Blind.mp3" },
             { "title": "Orange Flower (You Complete Me)",        "file": "Orange-Flower-You-Complete-Me.mp3" },
             { "title": "Sweet Venom (English Ver.)",             "file": "Sweet-Venom-English-Ver.mp3" }
-            
           ]
         }
       ]
@@ -113,6 +119,7 @@
         {
           "name": "ROMANCE : UNTOLD",
           "year": "2024",
+          "cover": "images/romance-untold.png",
           "songs": [
             { "title": "Moonstruck",                         "file": "Moonstruck.mp3" },
             { "title": "XO (Only If You Say Yes)",           "file": "XO-Only-If-You-Say-Yes.mp3",          "title_track": true },
@@ -123,12 +130,12 @@
             { "title": "Royalty",                            "file": "Royalty.mp3" },
             { "title": "Highway 1009",                       "file": "Highway-1009.mp3" },
             { "title": "XO (English Ver. feat. JVKE)",       "file": "XO-English-Ver-feat-JVKE.mp3" }
-            
           ]
         },
         {
           "name": "ROMANCE : daydream",
           "year": "2024",
+          "cover": "images/romance-daydream.png",
           "songs": [
             { "title": "No Doubt",  "file": "No-Doubt.mp3",   "title_track": true },
             { "title": "Daydream",  "file": "Daydream.mp3" }
@@ -144,6 +151,7 @@
         {
           "name": "DESIRE : UNLEASH",
           "year": "2025",
+          "cover": "images/desire-unleash.png",
           "songs": [
             { "title": "Flashover",                        "file": "Flashover.mp3" },
             { "title": "Bad Desire (With or Without You)", "file": "Bad-Desire-With-or-Without-You.mp3", "title_track": true },
@@ -158,6 +166,7 @@
         {
           "name": "THE SIN : VANISH",
           "year": "2026",
+          "cover": "images/the-sin-vanish.png",
           "songs": [
             { "title": "No Way Back (feat. So!YoON!)",     "file": "No-Way-Back-feat-SoYoON.mp3" },
             { "title": "Knife",                            "file": "Knife.mp3",                    "title_track": true },
@@ -166,7 +175,6 @@
             { "title": "Lost Island",                      "file": "Lost-Island.mp3" },
             { "title": "Sleep Tight",                      "file": "Sleep-Tight.mp3" },
             { "title": "Knife Sunghoon Remix",             "file": "Knife-Sunghoon-Remix.mp3" }
-
           ]
         }
       ]
@@ -179,6 +187,7 @@
         {
           "name": "DARK MOON (Memorabilia)",
           "year": "2023",
+          "cover": "images/dark-moon.png",
           "songs": [
             { "title": "One In A Billion",   "file": "One-In-A-Billion.mp3" },
             { "title": "CRIMINAL LOVE",      "file": "CRIMINAL-LOVE.mp3" },
@@ -191,6 +200,7 @@
         {
           "name": "Japanese Originals",
           "year": "Various",
+          "cover": "images/japanese.png",
           "songs": [
             { "title": "Shine On Me", "file": "Shine-On-Me.mp3" },
             { "title": "Echoes",      "file": "Echoes.mp3" }
@@ -199,6 +209,7 @@
         {
           "name": "Collaborations & OSTs",
           "year": "Various",
+          "cover": "images/collabs.png",
           "songs": [
             {"title": "Dial Tragedy - EVAN", "file": "Dial-Tragedy-EVAN.mp3" },
             { "title": "One and Only (Pokémon)","file": "One-and-Only-Pokemon.mp3" },
