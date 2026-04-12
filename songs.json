@@ -185,13 +185,19 @@
       "period": "Various",
       "albums": [
         {
-          "name": "DARK MOON (Memorabilia)",
+          "name": "DARK MOON : THE BLOOD ALTER",
           "year": "2023",
           "cover": "images/dark-moon.png",
           "songs": [
             { "title": "One In A Billion",   "file": "One-In-A-Billion.mp3" },
-            { "title": "CRIMINAL LOVE",      "file": "CRIMINAL-LOVE.mp3" },
-            { "title": "Fatal Trouble",      "file": "Fatal-Trouble.mp3" },
+            { "title": "CRIMINAL LOVE",      "file": "CRIMINAL-LOVE.mp3" }  
+          ]
+        },
+        {
+          "name": "MEMORABILIA",
+          "year": "2023",
+          "cover": "images/memorabilia.png",
+          "songs": [{ "title": "Fatal Trouble",      "file": "Fatal-Trouble.mp3" },
             { "title": "Teeth",              "file": "Teeth.mp3" },
             { "title": "Lucifer",            "file": "Lucifer.mp3" },
             { "title": "Scream",             "file": "Scream.mp3" }
