@@ -169,12 +169,53 @@
           "cover": "images/the-sin-vanish.png",
           "songs": [
             { "title": "No Way Back (feat. So!YoON!)",     "file": "No-Way-Back-feat-SoYoON.mp3" },
-            { "title": "Knife",                            "file": "Knife.mp3",                    "title_track": true },
+            { "title": "Knife",                            "file": "Knife.mp3", "title_track": true },
             { "title": "Stealer",                          "file": "Stealer.mp3" },
             { "title": "Big Girls Don't Cry",              "file": "Big-Girls-Dont-Cry.mp3" },
             { "title": "Lost Island",                      "file": "Lost-Island.mp3" },
-            { "title": "Sleep Tight",                      "file": "Sleep-Tight.mp3" },
-            { "title": "Knife Sunghoon Remix",             "file": "Knife-Sunghoon-Remix.mp3" }
+            { "title": "Sleep Tight",                      "file": "Sleep-Tight.mp3" }
+          ]
+        },
+        {
+          "name": "KNIFE - Member Versions",
+          "year": "2026",
+          "cover": "images/the-sin-vanish.png", 
+          "songs": [
+            { 
+              "title": "Knife (Sunghoon Remix)",             
+              "file": "Knife-Sunghoon-Remix.mp3",
+              "cover": "images/knife-sunghoon.png" 
+            },
+            { 
+              "title": "Knife (Heeseung Remix)",             
+              "file": "Knife-Heeseung-Remix.mp3",
+              "cover": "images/knife-heeseung.png" 
+            },
+            { 
+              "title": "Knife (Jungwon Remix)",             
+              "file": "Knife-Jungwon-Remix.mp3",
+              "cover": "images/knife-jungwon.png" 
+            },
+            { 
+              "title": "Knife (Jay Remix)",             
+              "file": "Knife-Jay-Remix.mp3",
+              "cover": "images/knife-jay.png" 
+            },
+            { 
+              "title": "Knife (Jake Remix)",             
+              "file": "Knife-Jake-Remix.mp3",
+              "cover": "images/knife-jake.png" 
+            },
+            { 
+              "title": "Knife (Sunoo Remix)",             
+              "file": "Knife-Sunoo-Remix.mp3",
+              "cover": "images/knife-sunoo.png" 
+            },
+            { 
+              "title": "Knife (Niki Remix)",             
+              "file": "Knife-Niki-Remix.mp3",
+              "cover": "images/knife-niki.png" 
+            }
           ]
         }
       ]
@@ -217,20 +258,76 @@
           "year": "Various",
           "cover": "images/collabs.png",
           "songs": [
-            {"title": "Dial Tragedy - EVAN", "file": "Dial-Tragedy-EVAN.mp3" },
-            { "title": "One and Only (Pokémon)","file": "One-and-Only-Pokemon.mp3" },
-            {"title": "What Makes You Beautiful (Cover)","file": "What-Makes-You-Beautiful-Cover.mp3" },
-            {"title": "Forget Me Not","file": "Forget-Me-Not.mp3" },
-            {"title": "Dry Flower (Jay Collaboration)","file": "Dry-Flower-Jay-Collaboration.mp3" },
-            {"title": "Heeseung Cover (This is Falling In Love)", "file": "Heeseung-Cover-This-is-Falling-In-Love.mp3"},
-            {"title": "Sunghoon Cover (Odoriko)","file": "Sunghoon-Cover-Odoriko.mp3" },
-            {"title": "Heeseung Cover (Off My Face)", "file": "Heeseung-Cover-Off-My-Face.mp3" },
-            {"title": "Jungwon Cover (Monster)", "file": "Jungwon-Cover-Monster.mp3" },
-            {"title": "Sunoo Cover (Beautiful)", "file": "Sunoo-Cover-Beautiful.mp3" },
-            {"title": "Jake Cover (I Don't Think I'm Ok)", "file": "Jake-Cover-I-Dont-Think-Im-Ok.mp3" },
-            {"title": "Confessions (Heeseung, Jake, Paul Russell)", "file": "Confessions-Heeseung-Jake-Paul-Russell.mp3" },
-            {"title": "Jungwon (Dear Me)", "file": "Jungwon-Dear-Me.mp3" },
-            {"title": "I Need The Light", "file": "I-Need-The-Light.mp3" }
+            {
+              "title": "Dial Tragedy - EVAN", 
+              "file": "Dial-Tragedy-EVAN.mp3",
+              "cover": "images/dial-tragedy.png"
+            },
+            { 
+              "title": "One and Only (Pokémon)",
+              "file": "One-and-Only-Pokemon.mp3",
+              "cover": "images/one-and-only.png"
+            },
+            {
+              "title": "What Makes You Beautiful (Cover)",
+              "file": "What-Makes-You-Beautiful-Cover.mp3",
+              "cover": "images/wmyb-cover.png"
+            },
+            {
+              "title": "Forget Me Not",
+              "file": "Forget-Me-Not.mp3",
+              "cover": "images/forget-me-not.png"
+            },
+            {
+              "title": "Dry Flower (Jay Collaboration)",
+              "file": "Dry-Flower-Jay-Collaboration.mp3",
+              "cover": "images/dry-flower.png"
+            },
+            {
+              "title": "Heeseung Cover (This is Falling In Love)", 
+              "file": "Heeseung-Cover-This-is-Falling-In-Love.mp3",
+              "cover": "images/this-is-falling-in-love.png"
+            },
+            {
+              "title": "Sunghoon Cover (Odoriko)",
+              "file": "Sunghoon-Cover-Odoriko.mp3",
+              "cover": "images/odoriko.png"
+            },
+            {
+              "title": "Heeseung Cover (Off My Face)", 
+              "file": "Heeseung-Cover-Off-My-Face.mp3",
+              "cover": "images/off-my-face.png"
+            },
+            {
+              "title": "Jungwon Cover (Monster)", 
+              "file": "Jungwon-Cover-Monster.mp3",
+              "cover": "images/monster.png"
+            },
+            {
+              "title": "Sunoo Cover (Beautiful)", 
+              "file": "Sunoo-Cover-Beautiful.mp3",
+              "cover": "images/beautiful.png"
+            },
+            {
+              "title": "Jake Cover (I Don't Think I'm Ok)", 
+              "file": "Jake-Cover-I-Dont-Think-Im-Ok.mp3",
+              "cover": "images/dont-think-im-ok.png"
+            },
+            {
+              "title": "Confessions (Heeseung, Jake, Paul Russell)", 
+              "file": "Confessions-Heeseung-Jake-Paul-Russell.mp3",
+              "cover": "images/confessions.png"
+            },
+            {
+              "title": "Jungwon (Dear Me)", 
+              "file": "Jungwon-Dear-Me.mp3",
+              "cover": "images/dear-me.png"
+            },
+            {
+              "title": "I Need The Light", 
+              "file": "I-Need-The-Light.mp3",
+              "cover": "images/i-need-the-light.png"
+            }
           ]
         }
       ]
