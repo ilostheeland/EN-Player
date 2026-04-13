@@ -595,7 +595,7 @@
             year:   album.year,
             era:    era.name,
             eraId:  era.id,
-            cover:  album.cover, // Grabbing the image path from JSON
+            cover:  s.cover || album.cover,
             isTitle: !!s.title_track,
             globalIndex: gi++
           });

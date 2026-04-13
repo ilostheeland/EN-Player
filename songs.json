@@ -245,9 +245,9 @@
           ]
         },
         {
-          "name": "Japanese Originals",
-          "year": "Various",
-          "cover": "images/japanese.png",
+          "name": "YOI",
+          "year": "2025",
+          "cover": "images/yoi.png",
           "songs": [
             { "title": "Shine On Me", "file": "Shine-On-Me.mp3" },
             { "title": "Echoes",      "file": "Echoes.mp3" }
